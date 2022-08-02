@@ -1,7 +1,9 @@
 DIN Schablonierschrift - a technocratic and open stencil font
 =============================================================
 
-This is the open source for DIN Schablonierschrift. 
+This is the open source for DIN Schablonierschrift and a fork of (https://github.com/marians/din-schablonierschrift).
+
+Attention: The fonts are not suitable for production work, try at your own risk.
 
 
 ## Contribute
